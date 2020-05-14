@@ -1,0 +1,138 @@
+<h1>AF Terms of Use
+
+
+
+</h1>
+
+
+
+
+
+
+
+
+
+
+
+<p><em>Revised: August 15, 2016</em></p>
+
+<p>Thank you for visiting the Arbitration Forums, Inc. ("AF") website located at www.arbfile.org ("Site"). The <strong>public areas</strong> of this Site are generally accessible by all users (hereinafter "Users"); however, <strong>member areas</strong> of the Site are only accessible by users who have been authenticated and granted permission by AF to use AF's online services ("Online Products and Services"), including arbitrators ("Member Arbitrators") and persons who use AF's Internet-based dispute resolution services, including AF's Online Filing and E-Subro Hub programs for the processing of subrogation demands (collectively referred to as "My Arbfile"). The Site, including its public areas, member areas, Online Products and Services, and My Arbfile are collectively referred to as the "AF Features" in this document.</p>
+
+<p>These terms and conditions of use (hereinafter "Terms of Use") set forth an agreement between you and AF governing the appropriate and lawful use of any of the AF Features. Please read these Terms of Use carefully.</p>
+
+<p>By using any of the AF Features, you signify your irrevocable acceptance of and agreement to be bound by and to comply with these Terms of Use.</p>
+
+<p>AF may at any time revise these Terms of Use by amending or updating these Terms of Use. You are bound by any such revisions and should therefore periodically visit this page to review the then current Terms of Use to which you are bound.</p>
+
+<p>At its sole discretion and without providing notice, AF reserves the right to add, change, modify, suspend, or discontinue all or any of the AF Features. Unless expressly stated otherwise herein, the use of any new AF Features, including the availability of new services or products through the Site, shall be subject to these Terms of Use. In addition, AF may also impose limits on any of the AF Features or restrict your access to any of the AF Features in its sole discretion without notice or liability. AF reserves the right to refuse to provide you with permission to access member areas, refuse to authenticate you for any reason, refuse to provide access to any of the AF Features, or refuse to allow you to become an Authenticated User for any reason.</p>
+
+<h2>AF's Proprietary Rights</h2>
+
+<p>Any and all of the AF Features contain data, content, software, code, information, materials, processes, procedures, methods and techniques (hereinafter "Data and Information"), which are protected by trademarks, service marks, copyrights, trade secret rights, and other intellectual and proprietary rights (hereinafter "Proprietary Rights"). You acknowledge, understand, and agree that AF retains all Proprietary Rights in and to all Data and Information, excluding Data and Information that you provide.</p>
+
+<h2>Limited License</h2>
+
+<p>AF grants to you a revocable limited license to access and use any of the AF Features, subject to all of the terms and conditions of these Terms of Use.</p>
+
+<p>By accessing and using any of the AF Features, you agree not to:</p>
+
+<ul>
+	<li>remove any trademarks, service marks, copyright notices, or any other notice contained in any Data and Information featured or contained on any of the AF Features;</li>
+	<li>reproduce, download (except as is necessary to participate in Online Products and Services or My Arbfile), modify, publish, distribute, transmit, disseminate, broadcast, transfer, license, adapt, create derivative works of, link to, publicly display or perform, or in any way exploit any Data and Information without AF's prior express written permission and consent;</li>
+	<li>frame or utilize framing techniques to enclose any Data and Information or individual element provided on any of the AF Features or create a link to any of the AF Features accessing such Data and Information or element without AF's prior express written permission and consent;</li>
+	<li>use any circumvention tools or any metatags or other hidden text utilizing AF's name, trademark, service mark, URL, or the name of any of the AF Features without AF's express prior written permission and consent; or</li>
+	<li>disassemble, decompile, or reverse engineer any of the materials, underlying software, or code made available on the Site or through any of the AF Features.</li>
+</ul>
+
+<h2>Becoming an Authenticated User and Security</h2>
+
+<p>1) To become an Authenticated User, Users must have registered with My Arbfile, provided certain profile information to create an account ("Account") and must be granted permission to use member areas of the Site, Online Products and Services, and My Arbfile. Profile information may include (for illustration purposes only), user ID, password, name, title, department, your company's name, mailing address, phone number, fax number, e-mail address, and website address ("Profile Information").</p>
+
+<p>2) By submitting your Profile Information through any of the AF Features, you grant AF a perpetual, irrevocable, royalty-free, non-exclusive license to use, reproduce, transmit, and display this Profile Information in connection with AF's operation of any of the applicable AF Features and/or your use of any of the applicable AF Features.</p>
+
+<p>3) You agree that all Profile Information you provide to AF will be true, accurate, current, and complete and your failure to provide such true, accurate, current, and complete Profile Information shall constitute a breach of these Terms of Use and may result in the immediate termination of your Account without notice to you (including, but not limited to, AF's revoking your permission to use the member areas of the Site). If your Profile Information changes, you agree to promptly update your Profile Information to keep it true, accurate, current, and complete. At all times, you agree to maintain the confidentiality of your password and properly exit from your Account at the end of each session.</p>
+
+<p>4) In becoming an Authenticated User, you agree not to:</p>
+
+<ul>
+	<li>select or use the name, e-mail address, or user name of another person with the intent to impersonate that person;</li>
+	<li>use an e-mail address or user name that is profane, offensive, or otherwise inappropriate; or</li>
+	<li>allow any other party to use your Account and/or password.</li>
+</ul>
+
+<p>5) You agree to immediately notify AF of any known or suspected unauthorized use(s) of your Account or any known or suspected breach of security, including loss, theft, or unauthorized disclosure of your password. You acknowledge, understand, and agree that you shall be liable for all activities that occur under any Account created for your use, even if such activities were not committed by you. AF is not responsible for any loss or damage arising from your failure to maintain the confidentiality of your password.</p>
+
+<h2>Privacy</h2>
+
+<p>Any of your Profile Information and any information stored or transmitted in any way on or through the use of any of the AF Features is subject to AF's <a href="/Privacy-Policy">Privacy Policy</a>. AF encourages you to read its Privacy Policy, which is incorporated by reference into these Terms of Use.</p>
+
+<h2>Appropriate Use of Any of the AF Features and Consequences of Inappropriate Use</h2>
+
+<p>1) You agree to comply with these Terms of Use and all applicable laws, statutes, ordinances, and regulations in your use of the AF Features.</p>
+
+<p>2) In accessing and using any of the AF Features, you agree not to:</p>
+
+<ul>
+	<li>upload, post, e-mail, display, or otherwise transmit or make available through the use of any of the AF Features (a) any information, content, or data that is fraudulent, misleading, inaccurate, unlawful, harmful, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, pornographic, profane, indecent, invasive of another's privacy, hateful, or racially, ethnically, or otherwise objectionable, including any communication that constitutes or encourages conduct that would constitute a criminal offense, gives rise to civil liability, or otherwise violates any applicable law or regulation or standard of conduct; (b) any information that you do not have a right to make available under any law or under contractual or fiduciary relationships, such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements; (c) any information that infringes, violates, or misappropriates any patent, trademark, trade secret, copyright, privacy, publicity, or other rights of any other person or entity; (d) any unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of solicitation; (e) any material that contains any virus, malware, Trojan horse, worm, time bomb, or any other computer code, files, or programs designed to damage, interfere with, intercept, misappropriate, gain control over, or limit the functionality of any computer, computer network, communications device, communications system, data, or personal information; or (f) any personally identifiable information ("PII") consisting of information, content, or data that can be used to distinguish or trace an individual's identity through a combination of the individual's name and one or more of the following (1) social security number; (2) driver's license number or non-driver identification card; (3) account number, credit or debit card number, in combination with any required security code, access code, or password that would permit access to an individual's financial account; (4) any information regarding an individual's medical history, mental or physical condition, or medical treatment or diagnosis by a health care professional (unless identifying information is redacted or otherwise not visible as part of the information or metadata such as file name or other file properties); or an individual's health insurance policy number or subscriber identification number and any unique identifier used by a health insurer to identify the individual.</li>
+	<li>remove any trademarks, service marks, copyright notices, or any other notice featured or contained on any of the AF Features;</li>
+	<li>hack any of the AF Features, or to defeat or overcome any encryption technology or security measures implemented by AF with respect to any of the AF Features and/or data transmitted, processed, or stored by AF;</li>
+	<li>harvest or collect any information about or regarding other Authenticated Users of any of the AF Features including, but not limited to, any PII or personal data or information; and/or interfere with or disrupt any of the AF Features or servers or networks connected to or operated with any of the AF Features, or disobey any requirements, procedures, policies, or regulations of networks connected to or operated with any of the AF Features.</li>
+</ul>
+
+<p>3) If you engage in conduct that AF reasonably believes is:</p>
+
+<ul>
+	<li>illegal, fraudulent, harassing, or abusive;</li>
+	<li>a violation of these Terms of Use or any other policies or guidelines posted on any of the AF Features;</li>
+	<li>a violation of AF's <a href="/ArbitrationForums/media/resources/downloads/Current_AF_Rules.pdf">Rules</a>;</li>
+	<li>harmful to other users, third parties, or AF's business; or</li>
+	<li>intentional use or repeated inadvertent use of PII,</li>
+</ul>
+
+<p>AF may immediately terminate your Account, revoke or withdraw permission granted to an Authenticated User, or suspend your access to your Account in its sole discretion and without notice.</p>
+
+<p>4) Use of any of the AF Features for illegal, fraudulent, or abusive purposes may be referred to law enforcement authorities without notice.</p>
+
+<p>5) Upon AF's termination of your Account for any of the forgoing reasons, AF will have no obligation to notify any third parties regarding such termination, and you will be responsible for any damages that may result or arise out of termination of your Account.</p>
+
+<h2>Case Information and Profile Information</h2>
+
+<p>1) Any information submitted about a case ("Case Information") through the use of any of the AF Features is the sole responsibility of the person posting or transmitting such Case Information. You, and not AF, are entirely responsible for all Case Information that you upload, post, e-mail, transmit, or otherwise make available through the use of any of the AF Features. AF does not control the Case Information posted or transmitted through the use of any of the AF Features and, as such, does not guarantee the accuracy, reliability or quality of such Case Information. Further, you acknowledge, understand, and agree that AF may or may not pre-screen Case Information that is displayed on or transmitted through the use of any of the AF Features, including, but not limited to, use of PII. Under no circumstances will AF be liable in any way for any Case Information including, but not limited to, any errors or omissions in any Case Information, use or access to PII, or any loss or damage of any kind incurred as a result of the use of or your loss of use of any Case Information posted, e-mailed, transmitted, or otherwise made available on or through the use of any of the AF Features, including, but not limited to, your use or access to PII. You agree that AF may, in its sole discretion, refuse to post, store, or transmit any Case Information submitted by you and may move, remove, edit, or modify any such Case Information for any reason at any time without notice.</p>
+
+<p>2) You acknowledge, understand, consent, and agree that AF may access, preserve, and disclose Profile Information and/or or Case Information that you provide if AF is required to do so by law or if it believes in good faith that such access, preservation, or disclosure is reasonably necessary to (a) comply with legal process; (b) enforce these Terms of Use; (c) respond to claims that any Profile Information or Case Information violates the rights of any third parties; (d) respond to your requests for customer service; or (e) protect the rights, property, or personal safety of AF, its employees, partners, agents, or members of the public.</p>
+
+<h2>Linked Sites</h2>
+
+<p>AF may provide links to third parties' websites ("Linked Sites") on any of the AF Features. Linked Sites are not necessarily reviewed, controlled, or examined by AF in any way, and AF is not responsible for the policies and practices of any such Linked Sites or any additional links contained therein. These links do not imply AF's endorsement of or association with the Linked Sites. You, acknowledge, understand, and agree that AF is not responsible or liable in any way for any content, advertising, services, or goods on or made available from such Linked Sites or resources either via links provided by AF or by any user or third party.</p>
+
+<h2>Disclaimer of Warranties</h2>
+
+<p>1) You acknowledge, understand, and agree that the processing and transmission of communications relating to the use of any of the AF Features may involve transmissions over various networks and changes to conform and adapt to technical requirements of connecting to various networks or devices. Therefore, you acknowledge, understand, and agree that AF will not be responsible or liable for the timeliness, deletion, misdelivery, or failure to store any data, information, or content that you provide for display on or for transmission through the use of any of the AF Features.</p>
+
+<p>2) ANY AND ALL OF THE AF FEATURES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT ANY WARRANTY OR CONDITION, EXPRESS OR IMPLIED. TO THE FULL EXTENT PERMISSIBLE UNDER APPLICABLE LAW, AF SPECIFICALLY DISCLAIMS ALL WARRANTIES INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF TITLE, QUALITY, PERFORMANCE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. FURTHER, THE INFORMATION ON ANY OF THE AF FEATURES SHALL IN NO EVENT BE CONSIDERED OR RELIED UPON AS LEGAL ADVICE OR AS A SUBSTITUTE FOR SEEKING THE ADVICE OF A LICENSED ATTORNEY.</p>
+
+<p>3) AF makes no representation or warranty that (a) any of the AF Features will meet your expectations or requirements; (b) any of the AF Features will be available, uninterrupted, timely, secure, accurate, complete, or error free; (c) any results or information that may be obtained from the use of any of the AF Features will be accurate, timely, complete, or reliable; (d) any errors or defects in any of the AF Features will be corrected; or (e) any of the AF Features and/or the server that makes any of the AF Features available are free of viruses, clocks, timers, counters, worms, software locks, malware, Trojan horses, trap doors, time bombs, or any other harmful or malicious codes, instructions, programs, or components. Operation of any of the AF Features may be interfered with by numerous factors outside of AF's control including, but not limited to, telecommunications network disruptions. AF is not responsible and will have no liability for any failures of the Internet or any data or telecommunications equipment, system, or network used in connection with any of the AF Features.</p>
+
+<p>4) You acknowledge, understand, and agree that the entire risk arising out of the use or performance of any of the AF Features remains with you to the maximum extent permitted by law.</p>
+
+<p>5) YOU ACKNOWLEDGE, UNDERSTAND, AND AGREE THAT YOUR SOLE REMEDY FOR ANY PROBLEMS OR DISSATISFACTION WITH ANY OF THE AF FEATURES IS TO TERMINATE YOUR ACCOUNT AND DISCONTINUE USE OF ANY OF THE AF FEATURES.</p>
+
+<h2>Limitation of Liability</h2>
+
+<p>1) IN NO EVENT SHALL AF OR ANY OF ITS DIRECTORS, OFFICERS, MEMBERS, EMPLOYEES, AGENTS, CONSULTANTS, PARENTS, AFFILIATES, SUCCESSORS, ASSIGNS, SUPPLIERS, OR SERVICE PROVIDERS BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES ARISING FROM, OR DIRECTLY OR INDIRECTLY RELATED TO, THE USE OF, THE INABILITY TO USE, OR RELIANCE ON ANY OF THE AF FEATURES, OR THE CONTENT, MATERIALS, AND FUNCTIONS RELATED THERETO, INCLUDING, WITHOUT LIMITATION, LOSS OF REVENUE, ANTICIPATED PROFITS, BUSINESS, PROGRAMS, OR INFORMATION, EVEN IF AF OR SUCH PERSON OR ENTITY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE FORM OF ACTION. IN NO EVENT SHALL AF BE LIABLE FOR OR IN CONNECTION WITH ANY INFORMATION POSTED, TRANSMITTED, EXCHANGED, OR RECEIVED BY OR ON BEHALF OF ANY VISITOR OR OTHER PERSON ON OR THROUGH ANY OF THE AF FEATURES.</p>
+
+<p>2) AF HEREBY DISCLAIMS ANY LIABILITY TO YOU, THE PEOPLE YOU AUTHORIZE TO ACCESS YOUR ACCOUNT, OR ANY OTHER PARTY FOR ANY DAMAGES OR INJURY THAT MAY RESULT FROM THE USE OF OR INABILITY TO USE YOUR ACCOUNT INCLUDING, BUT NOT LIMITED TO ANY DAMAGES OR INJURY CAUSED BY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DELETION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS, COMMUNICATION SERVICE FAILURE, THEFT OR DESTRUCTION OR UNAUTHORIZED ACCESS TO, ALTERATION OF, OR USE OF ANY OF THE AF FEATURES UNDER ANY LEGAL THEORY OR CAUSE OF ACTION. NEITHER AF NOR ITS DIRECTORS, OFFICERS, MEMBERS, EMPLOYEES, AGENTS, CONSULTANTS, PARENTS, AFFILIATES, SUCCESSORS, ASSIGNS, SUPPLIERS, OR SERVICE PROVIDERS SHALL BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES INCLUDING, BUT NOT LIMITED TO, THOSE ARISING OUT OF THE USE OF ANY OF THE AF FEATURES OR INABILITY TO GAIN ACCESS TO ANY OF THE AF FEATURES.</p>
+
+<h2>Termination</h2>
+
+<p>You acknowledge, understand and agree that AF, in its sole discretion and without notice or liability to you, may terminate your use of, or access to, any of the AF Features at any time under any circumstance including, but not limited to, if AF believes in good faith that you have violated or acted inconsistently with these Terms of Use, AF's Rules or any applicable law, rule, or regulation or that you have engaged in conduct that AF determines to be inappropriate or unacceptable.</p>
+
+<h2>Indemnity</h2>
+
+<p>You agree to defend, indemnify, and hold AF and any of its directors, officers, members, employees, agents, consultants, parents, affiliates, successors, assigns, suppliers, or service providers harmless from and against any and all claims, actions, proceedings and suits and all related liabilities, losses, damages, judgments, settlements, penalties, fines, costs and expenses (including, without limitation, reasonable attorneys' fees and costs) arising out of (1) your use or misuse of any of the AF Features; (2) your breach or alleged breach of these Terms of Use; (3) your violation of any law, rule, regulation, or rights of others in connection with your use of any of the AF Features; (4) your use or disclosure of another person's personal, financial, or credit information or PII; (5) the infringement, violation, or misappropriation of any Proprietary Rights, or any other intellectual property rights; or (6) the violation of any property or privacy right arising from any of the information that you post or transmit through the use of any of the AF Features.</p>
+
+<p>If you have any questions about these Terms of Use, you may contact us by email at: <a href="mailto:ArbitrationForums@arbfile.org">ArbitrationForums@arbfile.org</a> or by mail at:</p>
+
+<blockquote>Arbitration Forums, Inc.<br>
+3820 Northdale Boulevard, Suite 200A<br>
+Tampa, Florida 33624</blockquote>

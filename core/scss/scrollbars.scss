@@ -1,0 +1,19 @@
+/* Scrollbar styles */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: $gray5;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: $gray2;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: $blue;
+}

@@ -1,0 +1,20 @@
+.ng-sidebar {
+  overflow: visible !important;
+}
+
+.ng-sidebar--left {
+  margin-top: 10px;
+  z-index: 10 !important;
+}
+
+.ng-sidebar__content {
+  margin-top: 80px;
+  margin-bottom: 50px;
+  margin-left: 55px;
+}
+
+@media only screen and (max-width: 425px) {
+  .ng-sidebar__content {
+    margin-top: 140px;
+  }
+}

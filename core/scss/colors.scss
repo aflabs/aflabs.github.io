@@ -1,0 +1,44 @@
+$blue: #1B77B2;
+$light-blue: #C6DDEB;
+$red: #C50F0F;
+$light-red: #F1C3C5;
+$orange: #E45312;
+$light-orange: #F8D7C4;
+$yellow: #E9C915;
+$light-yellow: #F9F1C3;
+$green: #006B54;
+$light-green: #BBD7CE;
+$black: #000000;
+$gray: #252626;
+$gray2: #444444;
+$gray3: #666666;
+$gray4: #A8A8A8;
+$gray5: #C8C8C8;
+$gray6: #E8E8E8;
+$gray7: #F1F1F1;
+$gray8: #FDFDFD;
+$white: #FFFFFF;
+
+//SHORTCUTS
+$primary: $blue;
+$info: $light-blue;
+$danger: $red;
+$warning: $orange;
+$success: $green;
+$secondary: $gray3;
+$dark: $gray;
+$light: $gray5;
+$white: $white;
+
+//Bootstrap overrides - we are handling this with the scss variables above
+// $theme-colors: (
+//     primary: $primary,
+//     info: $info,
+//     danger: $danger,
+//     warning: $warning,
+//     success: $success,
+//     secondary: $secondary,
+//     dark: $dark,
+//     light: $light,
+//     white: $white
+// );

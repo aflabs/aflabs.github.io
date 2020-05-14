@@ -1,0 +1,38 @@
+
+.closedSidebarIcon {
+	color: $white;
+	font-size: 24px !important;
+  line-height: 24px !important;
+  margin-bottom: 30px !important;
+}
+
+.openSidebarIcon {
+	color: $white;
+	font-size: 24px !important;
+  line-height: 24px !important;
+}
+
+.closedSidebarIcon.activeLink {
+	color: $primary;
+}
+
+.closedSidebarIcon.activeLink:hover {
+  color: $primary !important;
+}
+
+.closedSidebarIcon:hover {
+  color: $gray3 !important;
+}
+
+.nav-link-active {
+  background-color: $primary !important;
+  color: $white;
+}
+
+.nav-link-active:hover {
+  color: $white !important;
+}
+
+.nav-link:hover {
+  //background-color: $gray2;
+}
